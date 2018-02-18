@@ -1,0 +1,7 @@
+{
+  "name": "eslint-plugin-jest-set",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Peter Juras <me@peterjuras.com>",
+  "license": "MIT"
+}
